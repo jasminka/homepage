@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    color: #333333;
+    font-family: "Lucinda Grande", "Lucinda Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+    text-align: center;
+}
+
+
+#menu ul li {
+    display: inline-block;
+    margin: 10px;
+    font-size: 1.2em;
+}
+
+#menu ul {
+    padding: 0;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gray;
+}
+
+#intro {
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 30px;
+    text-align: justify;
+    line-height: 1.7em;
+}
+
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
